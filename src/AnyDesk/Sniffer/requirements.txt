@@ -1,4 +1,0 @@
-colorama
-pyfiglet
-pyarmor
-requests
